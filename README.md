@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanmajumdar100&show_icons=true&locale=en" alt="ayanmajumdar100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanmajumdar100&theme=dark" alt="ayanmajumdar100" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanmajumdar100&layout=compact&theme=vision-friendly-dark)](https://github.com/ayanmajumdar100/github-readme-stats)
