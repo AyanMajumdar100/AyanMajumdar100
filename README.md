@@ -29,6 +29,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanmajumdar100&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayanmajumdar100&theme=dark" alt="Streak Stats" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ayanmajumdar100&theme=dark" alt="GitHub Streak" /></a>
